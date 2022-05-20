@@ -6,6 +6,31 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Demo1.unity
-    guid: f6c2dba30ba7df54397141484f72d4ef
-  m_configObjects: {}
+    path: Assets/Scenes/homePage.unity
+    guid: 042a986f6e9e9ef4eb21d69feff2d4d4
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: 8d597a4d8279f1c4cb92f80a0a151cf0
+  - enabled: 1
+    path: Assets/Scenes/categories.unity
+    guid: 805696725d3a62a4c90420992e0ed993
+  - enabled: 1
+    path: Assets/Scenes/ARViews.unity
+    guid: a1a92579fe4169744b738819c2c0a9fe
+  - enabled: 1
+    path: Assets/Scenes/WallArts.unity
+    guid: b5ac82cff01917a428033f9101f599cb
+  - enabled: 1
+    path: Assets/Scenes/WallColor.unity
+    guid: 95ba7ccbe573c6046a59aa1cc9a982b8
+  - enabled: 1
+    path: Assets/Scenes/Furnitures.unity
+    guid: 1ca1a73ec2fd0dc46895c64e4d262d9d
+  - enabled: 1
+    path: Assets/Scenes/WallColor 1.unity
+    guid: 59fd0c84f1581934593b0c3aa2b29c2e
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5ea703bb3ac577a4ab337f4192ca8184,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c1639ba026d09754c9608799aa3bbfbd,
+      type: 2}
